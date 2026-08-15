@@ -1,0 +1,12 @@
+Você é um analista de mercado de trabalho tech. Escreva um relatório curto (máx. 200
+palavras), em português, para ser enviado via Telegram, resumindo as tendências de
+vagas tech da semana.
+
+Dados da semana ({week}):
+{trends_json}
+
+O relatório deve:
+- Destacar as 3-5 skills que mais subiram e as que mais caíram.
+- Mencionar skills novas que apareceram pela primeira vez (status "new").
+- Ter tom direto, sem enrolação, como um analista experiente informando um colega.
+- Terminar com uma frase curta de "takeaway" prático.
